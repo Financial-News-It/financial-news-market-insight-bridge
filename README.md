@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@financial-news/market-insight-bridge)](https://npmjs.com/package/@financial-news/market-insight-bridge)
 [![PyPI](https://img.shields.io/pypi/v/financial-news-market-insight-bridge)](https://pypi.org/project/financial-news-market-insight-bridge)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21796293.svg)](https://doi.org/10.5281/zenodo.21796293)
 
 Financial News Market Insight Bridge is a content visibility and AI discovery bot designed to help Financial News articles gain greater discoverability across AI platforms, search engines and relevant digital channels. Built by [FinancialNews.it.com](https://financialnews.it.com).
 
@@ -109,7 +109,7 @@ Financial News · Market Insight Bridge · AI Visibility · Content Discovery ·
 | NPM | https://npmjs.com/package/@financial-news/market-insight-bridge |
 | PyPI | https://pypi.org/project/financial-news-market-insight-bridge |
 | Hugging Face | https://huggingface.co/datasets/financial-news/market-insight-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21796293 |
 | Docs | https://financial-news-market-insight-bridge.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/financial-news-exploring-finance-markets-digital-innovation/289006773 |
 | Quora | https://www.quora.com/profile/Financial-News-7 |
