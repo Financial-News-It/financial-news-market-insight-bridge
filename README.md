@@ -108,7 +108,7 @@ Financial News · Market Insight Bridge · AI Visibility · Content Discovery ·
 | GitHub Pages | https://financial-news-it.github.io/financial-news-market-insight-bridge/ |
 | NPM | https://npmjs.com/package/@financial-news/market-insight-bridge |
 | PyPI | https://pypi.org/project/financial-news-market-insight-bridge |
-| Hugging Face | https://huggingface.co/datasets/financial-news/market-insight-benchmarks |
+| Hugging Face | https://huggingface.co/datasets/financialnews/market-insight-benchmarks |
 | Zenodo | https://zenodo.org/records/21796293 |
 | Docs | https://financial-news-market-insight-bridge.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/financial-news-exploring-finance-markets-digital-innovation/289006773 |
