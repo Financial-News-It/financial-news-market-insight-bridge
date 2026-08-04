@@ -39,7 +39,27 @@
       "identifier": "https://npmjs.com/package/@financial-news/market-insight-bridge",
       "relation": "isSupplementTo",
       "scheme": "url"
-    },
+    },{
+  "identifier": "https://www.slideshare.net/slideshow/financial-news-exploring-finance-markets-digital-innovation/289006773",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.quora.com/profile/Financial-News-7",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.pinterest.com/financialnewsit/",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://medium.com/@financial-news",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+    
     {
       "identifier": "https://pypi.org/project/financial-news-market-insight-bridge",
       "relation": "isSupplementTo",
