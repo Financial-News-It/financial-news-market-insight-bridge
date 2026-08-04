@@ -1,0 +1,21 @@
+id,article_title,finance_topic,ai_visibility_score,content_discovery_score,topic_matching_score,search_visibility_score,article_organization_score,finance_topic_mapping_score,overall_insight_bridge_index,priority_action,ai_platforms_score,search_engines_score,digital_publications_score,finance_communities_score,content_type,notes
+1,Fed Rate Decision Sparks Market Rally,economy,90,86,88,84,92,86,88,Search Visibility,90,87,87,86,Breaking News,High AI visibility for Fed news
+2,Bitcoin Surges Past Key Resistance Level,crypto,88,84,90,82,86,88,86,Search Visibility,88,85,82,88,Market Update,Strong crypto topic mapping
+3,Apple Stock Hits All-Time High,stock-market,86,82,88,80,88,84,85,Search Visibility,86,83,84,84,Equity Research,Tech stock coverage
+4,HDFC Bank Q3 Results Beat Estimates,banking,84,80,86,78,86,82,83,Search Visibility,84,81,82,82,Earnings Report,Banking sector news
+5,Stripe Raises $1B at $50B Valuation,fintech,92,88,90,84,90,88,89,Search Visibility,92,87,86,88,Funding News,Fintech funding story
+6,Inflation Data Shows Signs of Easing,economy,88,84,88,82,90,86,86,Search Visibility,88,85,86,86,Economic Data,Macro economic coverage
+7,ETF Inflows Hit Record High,investing,86,82,86,80,88,84,84,Search Visibility,86,83,84,84,Market Data,Investment flow news
+8,Ethereum Upgrade Goes Live,crypto,90,86,92,84,88,90,88,Search Visibility,90,87,84,90,Technology News,Blockchain update
+9,Warren Buffett Annual Letter Released,investing,88,86,88,84,90,86,87,Search Visibility,88,87,86,86,Analysis,High investor interest
+10,JPMorgan Expands Digital Banking,banking,84,80,84,78,86,82,82,Search Visibility,84,81,82,82,Corporate News,Banking digital strategy
+11,Nasdaq Breaks 20000 Mark,stock-market,92,88,90,86,92,88,89,Search Visibility,92,89,87,88,Market Milestone,Index milestone news
+12,Personal Savings Rate Drops to 3.5%,personal-finance,82,78,84,76,84,80,81,Search Visibility,82,79,80,80,Economic Data,Personal finance trend
+13,DeFi Protocol Launches Cross-Chain Bridge,crypto,86,82,88,80,84,88,85,Search Visibility,86,83,80,88,Technology News,DeFi ecosystem news
+14,Goldman Sachs Launches Wealth Platform,wealth-management,88,84,86,82,90,84,86,Search Visibility,88,85,86,84,Corporate News,Wealth management expansion
+15,RBI Keeps Repo Rate Unchanged,banking,86,82,86,80,88,84,84,Search Visibility,86,83,84,84,Policy News,Central bank decision
+16,SoFi Reports Strong Q2 Earnings,fintech,84,80,86,78,86,84,83,Search Visibility,84,81,82,84,Earnings Report,Fintech performance
+17,S&P 500 Ends Week Flat Amid Uncertainty,stock-market,86,82,86,80,88,84,84,Search Visibility,86,83,84,84,Market Summary,Weekly market wrap
+18,Retirement Savings Crisis Growing,personal-finance,84,80,84,78,86,82,82,Search Visibility,84,81,82,82,Feature Story,Retirement coverage
+19,BlackRock AUM Hits $11 Trillion,wealth-management,90,86,88,84,92,86,88,Search Visibility,90,87,87,86,Corporate Milestone,Asset management news
+20,Solana Ecosystem Surpasses 2M Daily Users,crypto,88,84,90,82,86,88,86,Search Visibility,88,85,82,88,Adoption News,Crypto ecosystem growth
