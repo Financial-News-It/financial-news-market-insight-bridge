@@ -111,6 +111,11 @@ Financial News · Market Insight Bridge · AI Visibility · Content Discovery ·
 | Hugging Face | https://huggingface.co/datasets/financial-news/market-insight-benchmarks |
 | Zenodo | https://zenodo.org/records/XXXXXXX |
 | Docs | https://financial-news-market-insight-bridge.readthedocs.io |
+| SlideShare | https://www.slideshare.net/slideshow/financial-news-exploring-finance-markets-digital-innovation/289006773 |
+| Quora | https://www.quora.com/profile/Financial-News-7 |
+| Pinterest | https://www.pinterest.com/financialnewsit/ |
+| Medium | https://medium.com/@financial-news |
+
 
 ## About FinancialNews.it.com
 
