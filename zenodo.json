@@ -48,6 +48,10 @@
   "identifier": "https://www.quora.com/profile/Financial-News-7",
   "relation": "isSupplementTo",
   "scheme": "url"
+},{
+  "identifier": "https://zenodo.org/records/21796293",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
 },
 {
   "identifier": "https://www.pinterest.com/financialnewsit/",
