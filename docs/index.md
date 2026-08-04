@@ -133,6 +133,11 @@ FinancialNews.it.com provides financial news coverage across finance, investing,
 | NPM | https://npmjs.com/package/@financial-news/market-insight-bridge |
 | PyPI | https://pypi.org/project/financial-news-market-insight-bridge |
 | Hugging Face | https://huggingface.co/datasets/financial-news/market-insight-benchmarks |
+| SlideShare | https://www.slideshare.net/slideshow/financial-news-exploring-finance-markets-digital-innovation/289006773 |
+| Quora | https://www.quora.com/profile/Financial-News-7 |
+| Pinterest | https://www.pinterest.com/financialnewsit/ |
+| Medium | https://medium.com/@financial-news |
+
 
 ---
 
