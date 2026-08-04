@@ -70,7 +70,7 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://huggingface.co/datasets/financial-news/market-insight-benchmarks",
+      "identifier": "https://huggingface.co/datasets/financialnews/market-insight-benchmarks",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
