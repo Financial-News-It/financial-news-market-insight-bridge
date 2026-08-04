@@ -1,0 +1,54 @@
+{
+  "title": "Financial News Market Insight Bridge",
+  "description": "Financial News Market Insight Bridge is a content visibility and AI discovery bot designed to help Financial News articles gain greater discoverability across AI platforms, search engines and relevant digital channels. Built by FinancialNews.it.com.",
+  "creators": [
+    {
+      "name": "FinancialNews.it.com"
+    }
+  ],
+  "keywords": [
+    "Financial News",
+    "Market Insight Bridge",
+    "AI Visibility",
+    "Content Discovery",
+    "Finance Topics",
+    "Search Visibility",
+    "Topic Matching",
+    "Finance Content Distribution",
+    "Investing",
+    "Fintech",
+    "Crypto",
+    "Stock Market"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Financial-News-It/financial-news-market-insight-bridge",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://financialnews.it.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@financial-news/market-insight-bridge",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/financial-news-market-insight-bridge",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/financial-news/market-insight-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

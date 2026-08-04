@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Financial News Market Insight Bridge",
+  "description": "A content visibility and AI discovery bot designed to help Financial News articles gain greater discoverability across AI platforms, search engines and relevant digital channels.",
+  "url": "https://financialnews.it.com",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "FinancialNews.it.com",
+    "url": "https://financialnews.it.com",
+    "sameAs": [
+      "https://financialnews.it.com",
+      "https://github.com/Financial-News-It",
+      "https://npmjs.com/package/@financial-news/market-insight-bridge",
+      "https://pypi.org/project/financial-news-market-insight-bridge",
+      "https://huggingface.co/datasets/financial-news/market-insight-benchmarks",
+      "https://financial-news-it.github.io/financial-news-market-insight-bridge/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Financial-News-It/financial-news-market-insight-bridge",
+  "keywords": [
+    "Financial News",
+    "Market Insight Bridge",
+    "AI Visibility",
+    "Content Discovery",
+    "Finance Topics",
+    "Search Visibility",
+    "Topic Matching",
+    "Finance Content Distribution",
+    "Investing",
+    "Fintech",
+    "Crypto",
+    "Stock Market"
+  ]
+}

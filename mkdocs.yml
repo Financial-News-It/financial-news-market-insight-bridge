@@ -1,0 +1,21 @@
+site_name: Financial News Market Insight Bridge
+site_url: https://financial-news-market-insight-bridge.readthedocs.io
+site_description: Content visibility and AI discovery bot helping Financial News articles gain greater discoverability across AI platforms, search engines and digital channels.
+site_author: FinancialNews.it.com
+
+repo_name: Financial-News-It/financial-news-market-insight-bridge
+repo_url: https://github.com/Financial-News-It/financial-news-market-insight-bridge
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: teal
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
